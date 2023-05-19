@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Basics Learning Dice Roller</string>
+    <string name="roll">Roll</string>
+</resources>
